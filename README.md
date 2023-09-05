@@ -4,4 +4,4 @@ some description!
 
 ##Subheader 
 
-WAtch tutorial on Youtube
+Watch tutorial on Youtube
