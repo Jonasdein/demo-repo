@@ -10,3 +10,8 @@ Watch tutorial on Youtube.
 
 1.Open index.html in your browser. 
 2.Have fun.
+
+## Watch me on Twitch
+
+1.Open your browser.
+2.Go to Twitch.
